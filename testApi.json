@@ -2,16 +2,19 @@
 	{
 		"name" : "Mg Mg",
 		"age" : 20,
-		"phone" : "09 252 104 295"
+		"phone" : "09 252 104 295",
+		"image" : "https://github.com/myint-myat/apiTest/raw/master/image/chinese.png"
 	},
 	{
 		"name" : "Ma Ma",
 		"age" : 20,
-		"phone" : "09 252 104 295"
+		"phone" : "09 252 104 295",
+		"image" : "https://github.com/myint-myat/apiTest/raw/master/cover14.png"
 	},
 	{
 		"name" : "Kyaw Kyaw",
 		"age" : 20,
-		"phone" : "09 252 104 295"
+		"phone" : "09 252 104 295",
+		"image" : "https://github.com/myint-myat/apiTest/raw/master/image/tech8.png"
 	},
 ]
